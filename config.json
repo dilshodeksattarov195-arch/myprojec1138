@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authfarse",
+        "uuid": 786358,
+        "checksum": "3jebnc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
